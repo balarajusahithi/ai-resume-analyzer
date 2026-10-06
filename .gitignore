@@ -1,0 +1,5 @@
+airesumeanalyzer/
+.vscode/
+__pycache__/
+*.pyc
+.env
